@@ -1,0 +1,14 @@
+#content-wrap{
+
+    display: none;
+
+}
+.msg{
+    padding-top: 2px;
+
+    padding-left: 2px;
+}
+
+.msg b{
+    padding-top: 2px; 
+}
